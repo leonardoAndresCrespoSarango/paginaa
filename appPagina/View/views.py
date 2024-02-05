@@ -1,6 +1,6 @@
 import io
 from PIL import Image as im
-import torch
+
 import numpy as np
 from django.shortcuts import render
 from django.views.generic.edit import CreateView
